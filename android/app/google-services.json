@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "232059441820",
+    "firebase_url": "https://city-rider-4bb04-default-rtdb.firebaseio.com",
+    "project_id": "city-rider-4bb04",
+    "storage_bucket": "city-rider-4bb04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232059441820:android:dc293b3f37c7ab5a7f1359",
+        "android_client_info": {
+          "package_name": "com.cityrider.cityrider_driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232059441820-73vm3r5meo06c3do9c8h0d6bnn0fb866.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6h4VFz_3aL8xgqzZ6--dQi9PUWnJr0NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232059441820-73vm3r5meo06c3do9c8h0d6bnn0fb866.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "232059441820-87vu51kedpkcsetoirdtp468mpsi42vt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cityrider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232059441820:android:91dc7671d65ae7267f1359",
+        "android_client_info": {
+          "package_name": "com.cityrider.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232059441820-73vm3r5meo06c3do9c8h0d6bnn0fb866.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6h4VFz_3aL8xgqzZ6--dQi9PUWnJr0NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232059441820-73vm3r5meo06c3do9c8h0d6bnn0fb866.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "232059441820-87vu51kedpkcsetoirdtp468mpsi42vt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cityrider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232059441820:android:45fee312803204ce7f1359",
+        "android_client_info": {
+          "package_name": "com.example.cityrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232059441820-73vm3r5meo06c3do9c8h0d6bnn0fb866.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6h4VFz_3aL8xgqzZ6--dQi9PUWnJr0NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232059441820-73vm3r5meo06c3do9c8h0d6bnn0fb866.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "232059441820-87vu51kedpkcsetoirdtp468mpsi42vt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cityrider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
